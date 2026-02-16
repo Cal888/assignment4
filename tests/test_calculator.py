@@ -1,7 +1,7 @@
 """
 tests/test_calculator.py
 
-
+Tests REPL calculator functionality and user experience.
 
 """
 import pytest
