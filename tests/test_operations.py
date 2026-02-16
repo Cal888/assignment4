@@ -7,6 +7,7 @@ Unit tests for mathematical operations:
     - multiplication
     - division
     - power
+    - modulus
 
 Individual tests are organized in the AAA (Arrange, Act, Assert) pattern and include two operands.
 
@@ -19,7 +20,7 @@ Test Criteria:
 Parametrize tests for invalid input types.
 
 Test Criteria:
-    - Calculation Method : addition, subtraction, multiplication, division, power
+    - Calculation Method : addition, subtraction, multiplication, division, power, modulus
     - a                  : float
     - b                  : float
     - Expected Exception : TypeError
